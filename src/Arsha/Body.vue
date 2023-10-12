@@ -9,27 +9,27 @@
                 <div class="row" data-aos="zoom-in">
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-1.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-1.png" class="img-fluid" alt="">
                   </div>
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-2.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-2.png" class="img-fluid" alt="">
                   </div>
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-3.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-3.png" class="img-fluid" alt="">
                   </div>
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-4.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-4.png" class="img-fluid" alt="">
                   </div>
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-5.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-5.png" class="img-fluid" alt="">
                   </div>
         
                   <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="/assets/arsha/assets/img/clients/client-6.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/clients/client-6.png" class="img-fluid" alt="">
                   </div>
         
                 </div>
@@ -131,7 +131,7 @@
         
                 <div class="row">
                   <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                    <img src="/assets/arsha/assets/img/skills.png" class="img-fluid" alt="">
+                    <img src="@/assets/arsha/img/skills.png" class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
                     <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
@@ -261,7 +261,7 @@
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>App 1</h4>
                       <p>App</p>
@@ -271,7 +271,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Web 3</h4>
                       <p>Web</p>
@@ -281,7 +281,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>App 2</h4>
                       <p>App</p>
@@ -291,7 +291,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Card 2</h4>
                       <p>Card</p>
@@ -301,7 +301,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Web 2</h4>
                       <p>Web</p>
@@ -311,7 +311,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>App 3</h4>
                       <p>App</p>
@@ -321,7 +321,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Card 1</h4>
                       <p>Card</p>
@@ -331,7 +331,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Card 3</h4>
                       <p>Card</p>
@@ -341,7 +341,7 @@
                   </div>
         
                   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-img"><img src="/assets/arsha/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
+                    <div class="portfolio-img"><img src="@/assets/arsha/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
                     <div class="portfolio-info">
                       <h4>Web 3</h4>
                       <p>Web</p>
@@ -368,7 +368,7 @@
         
                   <div class="col-lg-6">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                      <div class="pic"><img src="/assets/arsha/assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="pic"><img src="@/assets/arsha/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                       <div class="member-info">
                         <h4>Walter White</h4>
                         <span>Chief Executive Officer</span>
@@ -385,7 +385,7 @@
         
                   <div class="col-lg-6 mt-4 mt-lg-0">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                      <div class="pic"><img src="/assets/arsha/assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="pic"><img src="@/assets/arsha/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                       <div class="member-info">
                         <h4>Sarah Jhonson</h4>
                         <span>Product Manager</span>
@@ -402,7 +402,7 @@
         
                   <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-                      <div class="pic"><img src="/assets/arsha/assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="pic"><img src="@/assets/arsha/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                       <div class="member-info">
                         <h4>William Anderson</h4>
                         <span>CTO</span>
@@ -419,7 +419,7 @@
         
                   <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-                      <div class="pic"><img src="/assets/arsha/assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+                      <div class="pic"><img src="@/assets/arsha/img/team/team-4.jpg" class="img-fluid" alt=""></div>
                       <div class="member-info">
                         <h4>Amanda Jepson</h4>
                         <span>Accountant</span>
@@ -593,7 +593,7 @@
                         <p>+1 5589 55488 55s</p>
                       </div>
         
-                      <iframe src="/assets/arsha/https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+                      <iframe src="@/assets/arsha/https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
                     </div>
         
                   </div>

@@ -14,6 +14,7 @@
                   <li><a class="nav-link scrollto" href="#services">Services</a></li>
                   <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
                   <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                  <li><a class="nav-link scrollto" href="/manage">Manage</a></li>
                   <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                       <li><a href="#">Drop Down 1</a></li>
@@ -54,7 +55,7 @@
                   </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                  <img src="/assets/arsha/assets/img/hero-img.png" class="img-fluid animated" alt="">
+                  <img src="@/assets/arsha/img/hero-img.png" class="img-fluid animated" alt="">
                 </div>
               </div>
             </div>
